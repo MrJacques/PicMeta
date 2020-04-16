@@ -21,13 +21,8 @@
 # SOFTWARE.
 
 import unittest
-import io
 
 from PicMeta import PicMeta
-
-
-
-
 
 
 class MockFile:
